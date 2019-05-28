@@ -1,0 +1,13 @@
+G:\visual studio 2012\Project\MyProject\Mygame\Mygame\Mygame\bin\Release\Mygame.exe.config
+G:\visual studio 2012\Project\MyProject\Mygame\Mygame\Mygame\bin\Release\Mygame.exe
+G:\visual studio 2012\Project\MyProject\Mygame\Mygame\Mygame\bin\Release\Mygame.pdb
+G:\visual studio 2012\Project\MyProject\Mygame\Mygame\Mygame\obj\Release\Mygame.csprojResolveAssemblyReference.cache
+G:\visual studio 2012\Project\MyProject\Mygame\Mygame\Mygame\obj\Release\Mygame.Calculation.resources
+G:\visual studio 2012\Project\MyProject\Mygame\Mygame\Mygame\obj\Release\Mygame.Customize.resources
+G:\visual studio 2012\Project\MyProject\Mygame\Mygame\Mygame\obj\Release\Mygame.GameCentre.resources
+G:\visual studio 2012\Project\MyProject\Mygame\Mygame\Mygame\obj\Release\Mygame.MineSweeper.resources
+G:\visual studio 2012\Project\MyProject\Mygame\Mygame\Mygame\obj\Release\Mygame.Properties.Resources.resources
+G:\visual studio 2012\Project\MyProject\Mygame\Mygame\Mygame\obj\Release\Mygame.Record.resources
+G:\visual studio 2012\Project\MyProject\Mygame\Mygame\Mygame\obj\Release\Mygame.csproj.GenerateResource.Cache
+G:\visual studio 2012\Project\MyProject\Mygame\Mygame\Mygame\obj\Release\Mygame.exe
+G:\visual studio 2012\Project\MyProject\Mygame\Mygame\Mygame\obj\Release\Mygame.pdb

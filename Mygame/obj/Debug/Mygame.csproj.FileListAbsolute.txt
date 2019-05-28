@@ -1,0 +1,52 @@
+G:\visual studio 2012\Project\MyProject\Mygame\Mygame\Mygame\bin\Debug\Mygame.exe
+G:\visual studio 2012\Project\MyProject\Mygame\Mygame\Mygame\bin\Debug\Mygame.pdb
+G:\visual studio 2012\Project\MyProject\Mygame\Mygame\Mygame\obj\Debug\Mygame.csprojResolveAssemblyReference.cache
+G:\visual studio 2012\Project\MyProject\Mygame\Mygame\Mygame\obj\Debug\Mygame.GameCentre.resources
+G:\visual studio 2012\Project\MyProject\Mygame\Mygame\Mygame\obj\Debug\Mygame.Properties.Resources.resources
+G:\visual studio 2012\Project\MyProject\Mygame\Mygame\Mygame\obj\Debug\Mygame.csproj.GenerateResource.Cache
+G:\visual studio 2012\Project\MyProject\Mygame\Mygame\Mygame\obj\Debug\Mygame.exe
+G:\visual studio 2012\Project\MyProject\Mygame\Mygame\Mygame\obj\Debug\Mygame.pdb
+G:\visual studio 2012\Project\MyProject\Mygame\Mygame\Mygame\obj\Debug\Mygame.Calculation.resources
+G:\visual studio 2012\Project\MyProject\Mygame\Mygame\Mygame\obj\Debug\Mygame.Point24.resources
+G:\visual studio 2012\Project\MyProject\Mygame\Mygame\Mygame\obj\Debug\Mygame.MineSweeper.resources
+G:\visual studio 2012\Project\MyProject\Mygame\Mygame\Mygame\obj\Debug\Mygame.RestoreChess.resources
+C:\Users\Administrator\Desktop\Mygame\Mygame\bin\Debug\Mygame.exe.config
+C:\Users\Administrator\Desktop\Mygame\Mygame\obj\Debug\Mygame.exe
+C:\Users\Administrator\Desktop\Mygame\Mygame\obj\Debug\Mygame.pdb
+C:\Users\Administrator\Desktop\Mygame\Mygame\bin\Debug\Mygame.exe
+C:\Users\Administrator\Desktop\Mygame\Mygame\bin\Debug\Mygame.pdb
+C:\Users\Administrator\Desktop\Mygame\Mygame\obj\Debug\Mygame.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Mygame\Mygame\obj\Debug\Mygame.RestoreChess.resources
+C:\Users\Administrator\Desktop\Mygame\Mygame\obj\Debug\Mygame.MineSweeper.resources
+C:\Users\Administrator\Desktop\Mygame\Mygame\obj\Debug\Mygame.MineSweeper.Properties.MineResources.resources
+C:\Users\Administrator\Desktop\Mygame\Mygame\obj\Debug\Mygame.Point24.resources
+C:\Users\Administrator\Desktop\Mygame\Mygame\obj\Debug\Mygame.Calculation.resources
+C:\Users\Administrator\Desktop\Mygame\Mygame\obj\Debug\Mygame.GameCentre.resources
+C:\Users\Administrator\Desktop\Mygame\Mygame\obj\Debug\Mygame.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Mygame\Mygame\obj\Debug\Mygame.Record.resources
+C:\Users\Administrator\Desktop\Mygame\Mygame\obj\Debug\Mygame.csproj.GenerateResource.Cache
+G:\visual studio 2012\Project\MyProject\Mygame\Mygame\Mygame\bin\Debug\Mygame.exe.config
+G:\visual studio 2012\Project\MyProject\Mygame1\Mygame\bin\Debug\Mygame.exe.config
+G:\visual studio 2012\Project\MyProject\Mygame1\Mygame\obj\Debug\Mygame.exe
+G:\visual studio 2012\Project\MyProject\Mygame1\Mygame\obj\Debug\Mygame.pdb
+G:\visual studio 2012\Project\MyProject\Mygame1\Mygame\obj\Debug\Mygame.csprojResolveAssemblyReference.cache
+G:\visual studio 2012\Project\MyProject\Mygame1\Mygame\obj\Debug\Mygame.RestoreChess.resources
+G:\visual studio 2012\Project\MyProject\Mygame1\Mygame\obj\Debug\Mygame.Point24.resources
+G:\visual studio 2012\Project\MyProject\Mygame1\Mygame\obj\Debug\Mygame.Calculation.resources
+G:\visual studio 2012\Project\MyProject\Mygame1\Mygame\obj\Debug\Mygame.GameCentre.resources
+G:\visual studio 2012\Project\MyProject\Mygame1\Mygame\obj\Debug\Mygame.Properties.Resources.resources
+G:\visual studio 2012\Project\MyProject\Mygame1\Mygame\obj\Debug\Mygame.csproj.GenerateResource.Cache
+G:\visual studio 2012\Project\MyProject\Mygame1\Mygame\bin\Debug\Mygame.exe
+G:\visual studio 2012\Project\MyProject\Mygame1\Mygame\bin\Debug\Mygame.pdb
+C:\Users\Administrator\Desktop\课程设计\Mygame1\Mygame\bin\Debug\Mygame.exe.config
+C:\Users\Administrator\Desktop\课程设计\Mygame1\Mygame\obj\Debug\Mygame.exe
+C:\Users\Administrator\Desktop\课程设计\Mygame1\Mygame\obj\Debug\Mygame.pdb
+C:\Users\Administrator\Desktop\课程设计\Mygame1\Mygame\bin\Debug\Mygame.exe
+C:\Users\Administrator\Desktop\课程设计\Mygame1\Mygame\bin\Debug\Mygame.pdb
+C:\Users\Administrator\Desktop\课程设计\Mygame1\Mygame\obj\Debug\Mygame.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\课程设计\Mygame1\Mygame\obj\Debug\Mygame.RestoreChess.resources
+C:\Users\Administrator\Desktop\课程设计\Mygame1\Mygame\obj\Debug\Mygame.Point24.resources
+C:\Users\Administrator\Desktop\课程设计\Mygame1\Mygame\obj\Debug\Mygame.Calculation.resources
+C:\Users\Administrator\Desktop\课程设计\Mygame1\Mygame\obj\Debug\Mygame.GameCentre.resources
+C:\Users\Administrator\Desktop\课程设计\Mygame1\Mygame\obj\Debug\Mygame.Properties.Resources.resources
+C:\Users\Administrator\Desktop\课程设计\Mygame1\Mygame\obj\Debug\Mygame.csproj.GenerateResource.Cache

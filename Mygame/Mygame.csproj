@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4A7CE530-B957-474B-9D83-31A9FB76DB00}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Mygame</RootNamespace>
+    <AssemblyName>Mygame</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="RestoreChess\RestoreChess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RestoreChess\RestoreChess.designer.cs">
+      <DependentUpon>RestoreChess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Point24\Point24.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Point24\Point24.Designer.cs">
+      <DependentUpon>Point24.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Calculation\Calculation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Calculation\Calculation.Designer.cs">
+      <DependentUpon>Calculation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Index.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Index.Designer.cs">
+      <DependentUpon>Index.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="RestoreChess\RestoreChess.resx">
+      <DependentUpon>RestoreChess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Point24\Point24.resx">
+      <DependentUpon>Point24.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Calculation\Calculation.resx">
+      <DependentUpon>Calculation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Index.resx">
+      <DependentUpon>Index.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="App.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Index.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\time.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\begin.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TIM截图20180610202818.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TIM截图20180610203027.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TIM截图20180610203123.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TIM截图20180610204922.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TIM截图20180610205055.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TIM截图20180612204104.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WinMine.ico" />
+    <None Include="Resources\bomb.png" />
+    <None Include="Resources\correct.png" />
+    <None Include="Resources\cross.png" />
+    <None Include="Resources\flag.png" />
+    <None Include="Resources\happy.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="Resources\IndexBackgrond.jpg" />
+    <None Include="Resources\Calculation\yes.png" />
+    <None Include="Resources\Calculation\no.png" />
+    <None Include="Resources\Calculation\CBG4.jpg" />
+    <None Include="Resources\Calculation\CBG3.jpg" />
+    <None Include="Resources\Calculation\CBG2.jpg" />
+    <None Include="Resources\Calculation\CBG1.jpg" />
+    <None Include="Resources\Calculation\CBG5.jpg" />
+    <None Include="Resources\Calculation\CalculationMaxBG.jpg" />
+    <None Include="Resources\CalculationBackground.jpg" />
+    <Content Include="Resources\Calculation\338734455412374654.jpg" />
+    <Content Include="Resources\Calculation\420931559191423936.jpg" />
+    <Content Include="Resources\Calculation\469080225886469907.jpg" />
+    <Content Include="Resources\Calculation\506629872949912277.jpg" />
+    <Content Include="Resources\Calculation\691526757119431596.jpg" />
+    <None Include="Resources\Calculation\Point24MaxBG.jpg" />
+    <Content Include="Resources\Calculation\TIM截图20180610205407.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
